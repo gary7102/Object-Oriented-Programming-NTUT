@@ -1,0 +1,14 @@
+.vscode/
+bin/
+
+# git rm -r --cached . 
+./src/HelloWorld.h
+./src/HelloWorld.cpp
+./src/MathVector.h
+./src/length.h
+./src/cookie.h
+
+./test/ut_helloworld.h
+./test/ut_length.h
+./test/ut_mathvector.h
+./test/ut_cookie.h
